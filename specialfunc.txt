@@ -1,0 +1,6 @@
+def exponent (a**b)
+pass
+
+def modulus (a//b)
+pass
+
