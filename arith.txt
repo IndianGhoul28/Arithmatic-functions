@@ -6,3 +6,6 @@ pass
 
 def multiply (a*b)
 pass
+
+def division (a/b)
+pass
